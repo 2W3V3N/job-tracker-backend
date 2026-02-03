@@ -64,5 +64,65 @@ Open terminal in project folder and run:
 
 ```bash
 python -m venv .venv
+.\.venv\Scripts\activate
+
+```
+## 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+## 3. Start the server
+
+```bash
+python -m uvicorn app.main:app --reload
+```
+## 4. Open in browser
+
+Swagger documentation:
+
+http://127.0.0.1:8000/docs
+
+Health check:
+
+http://127.0.0.1:8000/health
+
+---
+
+## Why I Built This Project
+
+I built this project to:
+
+Practice backend development
+
+Understand REST API architecture
+
+Learn database integration
+
+Prepare for iOS + backend integration
+
+Build a professional GitHub portfolio
+
+This backend is intended to be connected to a future iOS application.
+
+---
+## Next Planned Improvements
+
+Update endpoint (PUT /applications/{id})
+
+Filtering and search
+
+User authentication
+
+Docker support
+
+Cloud deployment
+
+iOS client integration
+
+---
+
+## Author: Magda
+Purpose: Internship Portfolio Project
 
 
