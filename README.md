@@ -124,5 +124,6 @@ iOS client integration
 
 ## Author: Magda
 Purpose: Internship Portfolio Project
+<img width="1667" height="2335" alt="image" src="https://github.com/user-attachments/assets/5e27ceea-5b36-4d2b-8936-fbf8fc1b2f53" />
 
 
