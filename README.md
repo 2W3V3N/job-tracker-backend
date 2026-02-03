@@ -64,3 +64,7 @@ Open terminal in project folder and run:
 
 ```bash
 python -m venv .venv
+Activate it:
+.\.venv\Scripts\activate
+pip install -r requirements.txt
+
